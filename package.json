@@ -95,7 +95,7 @@
     "testem": "^1.7.1",
     "through2": "^2.0.1",
     "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0"
+    "vinyl-source-stream": "^2.0.0"
   },
   "browser": {
     "./index": "./lib/browser/jsforce",
